@@ -18,6 +18,7 @@ function navdate(){
             HalfDTable(data.default, 1)
             HalfNTable(data.default, 1)
             WholeTable(data.default, 1)
+            AssemblyReportTable(data.default, 1)
             // chart1("chart1", data.default)b
         }
     });
